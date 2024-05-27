@@ -105,7 +105,7 @@ nav a {
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	height: 71vh;
+	height: 60vh;
 }
 
 .center_all {
@@ -574,7 +574,7 @@ form{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	height: 100vh;
+	height: 80vh;
 }
 
 .derecha_c{
